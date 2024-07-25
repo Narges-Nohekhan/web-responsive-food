@@ -65,6 +65,7 @@ a{
     --color_rgb_122_144_176:rgba(112, 144, 176, 0.20);
     --color-FF7A04:#FF7A04;
     --color-FDBC82:#FDBC82;
+    --color-Cc0000:red;
 }
 img{
     width: 100%;
