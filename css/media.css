@@ -53,6 +53,9 @@
     .menu_icon{
         justify-self: flex-end;
     }
+    /*.row_grid_food_products{*/
+    /*    grid-template-columns: repeat(2,48%);*/
+    /*}*/
 }
 
 @media (min-width:835px){

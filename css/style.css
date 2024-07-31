@@ -344,8 +344,9 @@ img{
 .row_grid_food_products{
     margin-top: 32px;
     display: grid;
-    grid-template-columns: repeat(3,370px);
+    grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
     gap: 30px;
+    justify-content: center;
 }
 .item_food_grid{
     border: 1px solid var(--color_E3E3E3);
