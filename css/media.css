@@ -95,9 +95,33 @@
         font-size: 19px;
         margin-top: -2px;
     }
+    .row_info_food_off{
+        height: 250px;
+    }
+    .left_item_text_food_off{
+        font-weight: 100;
+        font-size: 16px;
+    }
+    .left_item_text_food_off h6{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .left_item_text_food_off button{
+        font-size: 16px;
+        font-weight: 100;
+        padding: 3px 6px;
+    }
 }
 @media (min-width:677px){
    .order_food_mobile{
     display: none;
    }
+    .left_item_text_food_off button{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 676px) {
+
+    
 }
