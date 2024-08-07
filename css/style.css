@@ -6,6 +6,7 @@
 
 body {
     font-family: poppins, serif;
+    overflow-x: hidden;
 }
 
 ul {
@@ -415,6 +416,7 @@ img {
 .img_item_food_grid img {
     max-width: 227px;
     max-height: 227px;
+    object-fit: contain;
 }
 
 .img_item_food_grid div {
